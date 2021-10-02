@@ -4,5 +4,10 @@ public class DemoSaturday {
 	public static void main(String[] args) {
 		System.out.println("Saturday  Demo...");
 	}
+	
+	
+	//this is coming from github
+	public static void divNum(int a, int b){
+		System.out.println(a/b);
 
 }

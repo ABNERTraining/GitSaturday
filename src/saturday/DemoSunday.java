@@ -5,5 +5,7 @@ public class DemoSunday {
 		System.out.println("Sunday Demo...");
 		System.out.println(" XYZ ");
 	}
-
+	//coming from github
+public static void addNum(int a, int b){
+	System.out.println(a+b);
 }
